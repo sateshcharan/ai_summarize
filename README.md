@@ -1,8 +1,12 @@
-# React + Vite
+Article Summarizer App
+Overview
+The Article Summarizer App is a web application that uses GPT (Generative Pre-trained Transformer) models to summarize articles quickly and efficiently. With this app, users can input long articles or text content and receive concise and accurate summaries, making it easier to digest large amounts of information.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
+Summarize long articles into shorter, readable summaries.
+Utilize advanced NLP (Natural Language Processing) techniques powered by GPT models.
+Customize summarization options such as length and readability.
+Easy-to-use interface for inputting articles and viewing summaries.
+Save and export summarized content for future reference.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Live Demo: https://master--poetic-gecko-7b2e5e.netlify.app/
