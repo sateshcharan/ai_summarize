@@ -54,10 +54,10 @@ Run the Application:
 Start the development server:
 ```bash
 npm run dev
-Open in Browser:
 ```
 
-Open http://localhost:3000 in your browser to use the app.
+Open in Browser:
+  Open http://localhost:3000 in your browser to use the app.
 
 How to Use
   Input Article: Paste the article content or upload a text file containing the article you want to summarize.
