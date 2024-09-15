@@ -35,12 +35,13 @@ Steps to Run Locally
 Clone the Repository:
 
 ``` bash
-git clone https://github.com/yourusername/article-summarizer.git
-cd article-summarizer
+git clone https://github.com/sateshcharan/ai_summarize.git
+cd ai_summarize
 ```
 
 Install Dependencies:
-Use npm or yarn to install the necessary dependencies:
+  Use npm or yarn to install the necessary dependencies:
+
 ```bash
 npm install
 ```
@@ -50,14 +51,14 @@ yarn install
 ```
 
 Run the Application:
+  Start the development server:
 
-Start the development server:
 ```bash
 npm run dev
 ```
 
 Open in Browser:
-  Open http://localhost:3000 in your browser to use the app.
+  Open http://localhost:5173 in your browser to use the app.
 
 How to Use
   Input Article: Paste the article content or upload a text file containing the article you want to summarize.
