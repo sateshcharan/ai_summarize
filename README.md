@@ -1,12 +1,16 @@
 AI Article Summarizer App
 The Article Summarizer App is a web application that leverages GPT (Generative Pre-trained Transformer) models to help users summarize long articles and text content quickly and effectively. It provides concise and accurate summaries, making it easier to process large   volumes of information in a fraction of the time.
 
+![screenshot1.png](https://github.com/sateshcharan/ai_summarize/blob/master/screenshots/screenshot1.png)
+
 Features
 - Quick Summarization: Transform lengthy articles into short, readable summaries in seconds.
 - GPT-Powered: Utilize advanced Natural Language Processing (NLP) techniques, powered by GPT models, for highly accurate summaries.
 - Customizable Summaries: Adjust summarization length and readability to suit your needs.
 - User-Friendly Interface: Simple and intuitive interface for pasting articles or uploading text for summarization.
 - Save and Export: Save and export summarized content for future reference or sharing.
+
+![screenshot2.png](https://github.com/sateshcharan/ai_summarize/blob/master/screenshots/screenshot2.png)
 
 Live Demo
 Check out the live demo of the Article Summarizer App here: [sateshcharan-aisummarize.netlify.app](https://sateshcharan-aisummarize.netlify.app/)
